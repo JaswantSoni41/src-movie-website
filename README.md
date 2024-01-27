@@ -26,3 +26,5 @@ This innovative platform allows users to dive into the cinematic world without a
 <li>$dbname = "movie_website"; </li>
 <li>$con = mysqli_connect($hostname,$username,$password,$dbname); </li>
 </ol>
+
+<p>It will Be vice versa for hosting platforms like InfinityFree, Azure , etc.</p>
