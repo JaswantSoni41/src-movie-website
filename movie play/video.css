@@ -1,0 +1,40 @@
+:root {
+    --main-color: #c0392b;
+    --body-bg: #181616;
+    --box-bg: #221f1f;
+    --text-color: #ffffff;
+
+    --nav-height: 60px; 
+    --space-top: 30px;  
+}
+
+iframe.videoplayback{
+    position:relative;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+
+marquee.adv{
+    position: relative;
+    margin-top: 1%;
+}
+
+p.description,
+button.readmore{
+    position: relative;
+    margin-left: 1%;
+}
+
+button.readmore{
+    position: relative;
+    margin-left: 1%;
+}
+
+h2.title{
+    width: fit-content;
+    min-width: none;
+    height: fit-content;
+    margin-left: 1%;
+}
+
+#more {display: none;}
